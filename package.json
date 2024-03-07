@@ -2,7 +2,7 @@
   "name": "eslint-plugin-local-storage-with-try-catch",
   "version": "0.0.1-beta.1",
   "packageManager": "pnpm@7.9.0",
-  "description": "> description:",
+  "description": "> A eslint plugin to check if the local storage setItem is used without try-catch",
   "publishConfig": {
     "access": "public"
   },
